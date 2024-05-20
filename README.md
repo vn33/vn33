@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Naik, a Data Scientist <span><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"></span></h1>
+<h1 align="center">Hi 👋, I'm Vishal Naik, a Data Scientist <span><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"></span></h1>
 <img src="https://media.licdn.com/dms/image/D4D16AQGggYgVZO75JA/profile-displaybackgroundimage-shrink_350_1400/0/1715797351460?e=1721865600&v=beta&t=b9ZZnKyP8K35004bF5slIkYSdJsB65NZuwBysHEYLdA">
 <h3 align="center">I'm a passionate Data Scientist with a focus on Natural Language Processing, Machine Learning and Deep Learning. 🤖✨</h3>
 
