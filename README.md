@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Naik, a Data Scientist <span><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"></span></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WlOsGtKFnAFWum5HyK/giphy.gif" width="480">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVudDdwbDZ3M3U2NWtkenNtY3oyMmVqaXpnbDExcjVlOWxjaXU2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="480">
 </p>
 
 <h3>I'm a passionate Data Scientist with a focus on Natural Language Processing, Machine Learning and Deep Learning. 🤖✨</h3>
