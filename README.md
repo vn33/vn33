@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal Naik, a Data Scientist <span><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"></span></h1>
-<img src="https://media.licdn.com/dms/image/D4D16AQGggYgVZO75JA/profile-displaybackgroundimage-shrink_350_1400/0/1715797351460?e=1721865600&v=beta&t=b9ZZnKyP8K35004bF5slIkYSdJsB65NZuwBysHEYLdA">
-<h3 align="center">I'm a passionate Data Scientist with a focus on Natural Language Processing, Machine Learning and Deep Learning. 🤖✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WlOsGtKFnAFWum5HyK/giphy.gif" width="480">
+</p>
+
+<h3>I'm a passionate Data Scientist with a focus on Natural Language Processing, Machine Learning and Deep Learning. 🤖✨</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vn33&label=Profile%20views&color=0e75b6&style=flat" alt="vn33" /> </p>
 
