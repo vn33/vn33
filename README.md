@@ -2,7 +2,7 @@
 <table style="width:100%">
   <tr>
     <td style="text-align:center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVudDdwbDZ3M3U2NWtkenNtY3oyMmVqaXpnbDExcjVlOWxjaXU2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="480">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVudDdwbDZ3M3U2NWtkenNtY3oyMmVqaXpnbDExcjVlOWxjaXU2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="300">
     </td>
     <td style="text-align:center">
       <h3>I'm a passionate Data Scientist with a focus on Natural Language Processing, Machine Learning, and Deep Learning. 🤖✨</h3>
