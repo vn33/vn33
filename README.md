@@ -12,7 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vn33&label=Profile%20views&color=0e75b6&style=flat" alt="vn33" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vn33" alt="vn33" /></a> </p>
 
 - 📫 How to reach me **vishalpnaik666@gmail.com**
 
