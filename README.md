@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Naik, a Data Scientist <span><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"></span></h1>
+<h1 align="center">Hi 👋, I'm Vishal Naik <span><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"></span></h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vn33&label=Profile%20views&color=0e75b6&style=flat" alt="vn33" /> </p>
