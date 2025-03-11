@@ -1,9 +1,9 @@
-<h1 align="left"><span style="color:#FCB001">print</span>(<span style="color:green">'Hello, world!'</span>) <span>– oh wait, I guess that includes you too.</span></h1>
+<h1 align="left"><span style="color:#FCB001">print</span>(<span style="color:green">'Hello, world!'</span>)</h1>
 <!-- <div style="position: absolute"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"></div> -->
 <!-- <div style="position: absolute"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRwbWFudDh3YzBkbGduODltenZkaG1vb2Vpd2ljcDRwcjY1OGtvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A7Gpt39kH5sAg/giphy.gif" width="300"></div> -->
 <div>
-<!--   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFzaHQyaTEyMDV5d29zNDFuNmxiaHZmaHkwMHBpb200Mms4c3AzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif" width="500"> -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV5NGgyMzM1ZmR4cTA2dHdwMXIxeWk0Z3lxM3EyeTB1cGZwZ3M3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oW4csEbiMzVjq/giphy.gif" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFzaHQyaTEyMDV5d29zNDFuNmxiaHZmaHkwMHBpb200Mms4c3AzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif" width="500">
+<!--   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV5NGgyMzM1ZmR4cTA2dHdwMXIxeWk0Z3lxM3EyeTB1cGZwZ3M3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oW4csEbiMzVjq/giphy.gif" width="300"> -->
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vn33&label=Profile%20views&color=0e75b6&style=flat" alt="vn33" /> </p>
