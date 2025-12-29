@@ -34,4 +34,3 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vn33&show_icons=true&locale=en&layout=compact" alt="vn33" /></p>
