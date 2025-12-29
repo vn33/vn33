@@ -1,11 +1,6 @@
 <!-- <h1 align="left"><span style="color:#FCB001">print</span>(<span style="color:green">'Hello, world!'</span>)</h1> -->
 
-<div>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExempsNTdueGo1amhvOWNrenZ1aGlncWxvcHBubWVkcjRvNHU0cnNnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/61UzwAfQrnSZnsZb2s/giphy.gif">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRqMHkya2ZnMm80cDVreXZsZmpmaDhtOXBoejF1YnducTBhdXppayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oFzmpTTfofGroPw40/giphy.gif">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1iOHhlbndrMjNleDRqcThxcjh0Y3Nyb2sxZWVmZjhvejN1enR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhHSjXadL2eOc3T2Ww/giphy.gif">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYzY3F1cWd0d2FoeDZwazY2d21tbnpwZzFucmZ5d3J2eTMzMDI1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39De2iiFoLfkcDHW/giphy.gif">
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vn33&label=Profile%20views&color=0e75b6&style=flat" alt="vn33" /> </p>
 
 
